@@ -1,0 +1,11 @@
+ninja: Entering directory `E:\Workspace\Android-Camera\basic\.cxx\cmake\debug\arm64-v8a'
+[1/10] Building C object CMakeFiles/app_glue.dir/D_/DevTools/Android/Sdk/ndk/21.2.6472646/sources/android/native_app_glue/android_native_app_glue.c.o
+[2/10] Building CXX object CMakeFiles/ndk_camera.dir/image_reader.cpp.o
+[3/10] Building CXX object CMakeFiles/ndk_camera.dir/android_main.cpp.o
+[4/10] Building CXX object CMakeFiles/ndk_camera.dir/camera_manager.cpp.o
+[5/10] Building CXX object CMakeFiles/ndk_camera.dir/camera_ui.cpp.o
+[6/10] Building CXX object CMakeFiles/ndk_camera.dir/E_/Workspace/Android-Camera/common/utils/camera_utils.cpp.o
+[7/10] Building CXX object CMakeFiles/ndk_camera.dir/camera_engine.cpp.o
+[8/10] Linking C static library libapp_glue.a
+[9/10] Building CXX object CMakeFiles/ndk_camera.dir/camera_listeners.cpp.o
+[10/10] Linking CXX shared library E:\Workspace\Android-Camera\basic\build\intermediates\cmake\debug\obj\arm64-v8a\libndk_camera.so

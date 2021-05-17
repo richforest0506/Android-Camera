@@ -1,0 +1,7 @@
+Executable : D:\DevTools\Android\Sdk\cmake\3.18.1\bin\ninja.exe
+arguments : 
+-C
+E:\Workspace\Android-Camera\basic\.cxx\cmake\debug\armeabi-v7a
+ndk_camera
+jvmArgs : 
+

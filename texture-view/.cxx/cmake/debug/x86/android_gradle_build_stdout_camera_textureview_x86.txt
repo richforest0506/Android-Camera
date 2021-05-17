@@ -1,0 +1,2 @@
+ninja: Entering directory `E:\Workspace\Android-Camera\texture-view\.cxx\cmake\debug\x86'
+ninja: no work to do.

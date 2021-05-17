@@ -1,0 +1,1 @@
+E:\Workspace\Android-Camera\basic\src\main\cpp\CMakeLists.txt

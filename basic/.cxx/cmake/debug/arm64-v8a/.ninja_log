@@ -1,0 +1,11 @@
+# ninja log v5
+1	310	642974034	CMakeFiles/app_glue.dir/D_/DevTools/Android/Sdk/ndk/21.2.6472646/sources/android/native_app_glue/android_native_app_glue.c.o	b26aac0955790f76
+6	647	642974034	CMakeFiles/ndk_camera.dir/image_reader.cpp.o	2c875bbb4058cf57
+2	669	642974034	CMakeFiles/ndk_camera.dir/android_main.cpp.o	592ffee3fe311665
+3	733	642974034	CMakeFiles/ndk_camera.dir/camera_manager.cpp.o	5b28b22123f79456
+7	767	642974034	CMakeFiles/ndk_camera.dir/camera_ui.cpp.o	58faf1cf62ac9523
+5	768	642974034	CMakeFiles/ndk_camera.dir/E_/Workspace/Android-Camera/common/utils/camera_utils.cpp.o	6171614cb493ece2
+4	801	642974034	CMakeFiles/ndk_camera.dir/camera_engine.cpp.o	c7e26a468262fe92
+311	801	642974034	libapp_glue.a	c5ea98f7642db5de
+4	819	642974034	CMakeFiles/ndk_camera.dir/camera_listeners.cpp.o	b80260c35166aeb0
+819	1033	642974034	E:/Workspace/Android-Camera/basic/build/intermediates/cmake/debug/obj/arm64-v8a/libndk_camera.so	8dcb73d9f2461910

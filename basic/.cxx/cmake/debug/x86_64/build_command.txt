@@ -1,0 +1,25 @@
+                    Executable : D:\DevTools\Android\Sdk\cmake\3.18.1\bin\cmake.exe
+arguments : 
+-HE:\Workspace\Android-Camera\basic\src\main\cpp
+-DCMAKE_FIND_ROOT_PATH=E:\Workspace\Android-Camera\basic\.cxx\cmake\debug\prefab\x86_64\prefab
+-DCMAKE_BUILD_TYPE=Debug
+-DCMAKE_TOOLCHAIN_FILE=D:\DevTools\Android\Sdk\ndk\21.2.6472646\build\cmake\android.toolchain.cmake
+-DANDROID_ABI=x86_64
+-DANDROID_NDK=D:\DevTools\Android\Sdk\ndk\21.2.6472646
+-DANDROID_PLATFORM=android-24
+-DCMAKE_ANDROID_ARCH_ABI=x86_64
+-DCMAKE_ANDROID_NDK=D:\DevTools\Android\Sdk\ndk\21.2.6472646
+-DCMAKE_EXPORT_COMPILE_COMMANDS=ON
+-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=E:\Workspace\Android-Camera\basic\build\intermediates\cmake\debug\obj\x86_64
+-DCMAKE_RUNTIME_OUTPUT_DIRECTORY=E:\Workspace\Android-Camera\basic\build\intermediates\cmake\debug\obj\x86_64
+-DCMAKE_MAKE_PROGRAM=D:\DevTools\Android\Sdk\cmake\3.18.1\bin\ninja.exe
+-DCMAKE_SYSTEM_NAME=Android
+-DCMAKE_SYSTEM_VERSION=24
+-DANDROID_STL=c++_static
+-BE:\Workspace\Android-Camera\basic\.cxx\cmake\debug\x86_64
+-GNinja
+jvmArgs : 
+
+
+                    Build command args: []
+                    Version: 1

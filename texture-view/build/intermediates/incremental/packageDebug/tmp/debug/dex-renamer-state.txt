@@ -1,0 +1,10 @@
+#Mon May 17 12:00:55 CDT 2021
+base.2=E\:\\Workspace\\Android-Camera\\texture-view\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\8\\classes.dex
+path.2=8/classes.dex
+base.1=E\:\\Workspace\\Android-Camera\\texture-view\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
+path.1=0/classes.dex
+base.0=E\:\\Workspace\\Android-Camera\\texture-view\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+path.0=classes.dex

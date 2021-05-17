@@ -1,0 +1,27 @@
+[
+{
+  "directory": "E:/Workspace/Android-Camera/texture-view/.cxx/cmake/debug/armeabi-v7a",
+  "command": "D:\\DevTools\\Android\\Sdk\\ndk\\21.2.6472646\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi24 --gcc-toolchain=D:/DevTools/Android/Sdk/ndk/21.2.6472646/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/DevTools/Android/Sdk/ndk/21.2.6472646/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dcamera_textureview_EXPORTS -IE:/Workspace/Android-Camera/texture-view/src/main/cpp/../../../../common -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -std=c++11 -Werror -O0 -fno-limit-debug-info  -fPIC -o CMakeFiles\\camera_textureview.dir\\android_main.cpp.o -c E:\\Workspace\\Android-Camera\\texture-view\\src\\main\\cpp\\android_main.cpp",
+  "file": "E:\\Workspace\\Android-Camera\\texture-view\\src\\main\\cpp\\android_main.cpp"
+},
+{
+  "directory": "E:/Workspace/Android-Camera/texture-view/.cxx/cmake/debug/armeabi-v7a",
+  "command": "D:\\DevTools\\Android\\Sdk\\ndk\\21.2.6472646\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi24 --gcc-toolchain=D:/DevTools/Android/Sdk/ndk/21.2.6472646/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/DevTools/Android/Sdk/ndk/21.2.6472646/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dcamera_textureview_EXPORTS -IE:/Workspace/Android-Camera/texture-view/src/main/cpp/../../../../common -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -std=c++11 -Werror -O0 -fno-limit-debug-info  -fPIC -o CMakeFiles\\camera_textureview.dir\\camera_manager.cpp.o -c E:\\Workspace\\Android-Camera\\texture-view\\src\\main\\cpp\\camera_manager.cpp",
+  "file": "E:\\Workspace\\Android-Camera\\texture-view\\src\\main\\cpp\\camera_manager.cpp"
+},
+{
+  "directory": "E:/Workspace/Android-Camera/texture-view/.cxx/cmake/debug/armeabi-v7a",
+  "command": "D:\\DevTools\\Android\\Sdk\\ndk\\21.2.6472646\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi24 --gcc-toolchain=D:/DevTools/Android/Sdk/ndk/21.2.6472646/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/DevTools/Android/Sdk/ndk/21.2.6472646/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dcamera_textureview_EXPORTS -IE:/Workspace/Android-Camera/texture-view/src/main/cpp/../../../../common -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -std=c++11 -Werror -O0 -fno-limit-debug-info  -fPIC -o CMakeFiles\\camera_textureview.dir\\camera_engine.cpp.o -c E:\\Workspace\\Android-Camera\\texture-view\\src\\main\\cpp\\camera_engine.cpp",
+  "file": "E:\\Workspace\\Android-Camera\\texture-view\\src\\main\\cpp\\camera_engine.cpp"
+},
+{
+  "directory": "E:/Workspace/Android-Camera/texture-view/.cxx/cmake/debug/armeabi-v7a",
+  "command": "D:\\DevTools\\Android\\Sdk\\ndk\\21.2.6472646\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi24 --gcc-toolchain=D:/DevTools/Android/Sdk/ndk/21.2.6472646/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/DevTools/Android/Sdk/ndk/21.2.6472646/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dcamera_textureview_EXPORTS -IE:/Workspace/Android-Camera/texture-view/src/main/cpp/../../../../common -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -std=c++11 -Werror -O0 -fno-limit-debug-info  -fPIC -o CMakeFiles\\camera_textureview.dir\\camera_listeners.cpp.o -c E:\\Workspace\\Android-Camera\\texture-view\\src\\main\\cpp\\camera_listeners.cpp",
+  "file": "E:\\Workspace\\Android-Camera\\texture-view\\src\\main\\cpp\\camera_listeners.cpp"
+},
+{
+  "directory": "E:/Workspace/Android-Camera/texture-view/.cxx/cmake/debug/armeabi-v7a",
+  "command": "D:\\DevTools\\Android\\Sdk\\ndk\\21.2.6472646\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi24 --gcc-toolchain=D:/DevTools/Android/Sdk/ndk/21.2.6472646/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/DevTools/Android/Sdk/ndk/21.2.6472646/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dcamera_textureview_EXPORTS -IE:/Workspace/Android-Camera/texture-view/src/main/cpp/../../../../common -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -std=c++11 -Werror -O0 -fno-limit-debug-info  -fPIC -o CMakeFiles\\camera_textureview.dir\\E_\\Workspace\\Android-Camera\\common\\utils\\camera_utils.cpp.o -c E:\\Workspace\\Android-Camera\\common\\utils\\camera_utils.cpp",
+  "file": "E:\\Workspace\\Android-Camera\\common\\utils\\camera_utils.cpp"
+}
+]

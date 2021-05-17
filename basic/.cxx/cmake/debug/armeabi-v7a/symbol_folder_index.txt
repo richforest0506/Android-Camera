@@ -1,0 +1,1 @@
+E:\Workspace\Android-Camera\basic\build\intermediates\cmake\debug\obj\armeabi-v7a

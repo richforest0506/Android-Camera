@@ -1,0 +1,7 @@
+ninja: Entering directory `E:\Workspace\Android-Camera\texture-view\.cxx\cmake\debug\x86_64'
+[1/6] Building CXX object CMakeFiles/camera_textureview.dir/camera_engine.cpp.o
+[2/6] Building CXX object CMakeFiles/camera_textureview.dir/android_main.cpp.o
+[3/6] Building CXX object CMakeFiles/camera_textureview.dir/camera_manager.cpp.o
+[4/6] Building CXX object CMakeFiles/camera_textureview.dir/E_/Workspace/Android-Camera/common/utils/camera_utils.cpp.o
+[5/6] Building CXX object CMakeFiles/camera_textureview.dir/camera_listeners.cpp.o
+[6/6] Linking CXX shared library E:\Workspace\Android-Camera\texture-view\build\intermediates\cmake\debug\obj\x86_64\libcamera_textureview.so

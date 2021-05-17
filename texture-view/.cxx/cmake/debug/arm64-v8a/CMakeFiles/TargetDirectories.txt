@@ -1,0 +1,3 @@
+E:/Workspace/Android-Camera/texture-view/.cxx/cmake/debug/arm64-v8a/CMakeFiles/camera_textureview.dir
+E:/Workspace/Android-Camera/texture-view/.cxx/cmake/debug/arm64-v8a/CMakeFiles/edit_cache.dir
+E:/Workspace/Android-Camera/texture-view/.cxx/cmake/debug/arm64-v8a/CMakeFiles/rebuild_cache.dir

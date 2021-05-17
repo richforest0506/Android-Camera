@@ -1,0 +1,4 @@
+E:/Workspace/Android-Camera/basic/.cxx/cmake/debug/arm64-v8a/CMakeFiles/edit_cache.dir
+E:/Workspace/Android-Camera/basic/.cxx/cmake/debug/arm64-v8a/CMakeFiles/app_glue.dir
+E:/Workspace/Android-Camera/basic/.cxx/cmake/debug/arm64-v8a/CMakeFiles/ndk_camera.dir
+E:/Workspace/Android-Camera/basic/.cxx/cmake/debug/arm64-v8a/CMakeFiles/rebuild_cache.dir

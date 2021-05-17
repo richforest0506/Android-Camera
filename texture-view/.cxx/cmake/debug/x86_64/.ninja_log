@@ -1,0 +1,7 @@
+# ninja log v5
+3	472	642974021	CMakeFiles/camera_textureview.dir/camera_engine.cpp.o	f10b955538e4c233
+4	475	642974021	CMakeFiles/camera_textureview.dir/android_main.cpp.o	a45675d6f6649f88
+1	582	642974022	CMakeFiles/camera_textureview.dir/camera_manager.cpp.o	69a6fa9ccbb9455c
+5	654	642974022	CMakeFiles/camera_textureview.dir/E_/Workspace/Android-Camera/common/utils/camera_utils.cpp.o	75c389d8f7b3f1e7
+5	660	642974022	CMakeFiles/camera_textureview.dir/camera_listeners.cpp.o	ac3f4eda93fcddd9
+660	972	642974022	E:/Workspace/Android-Camera/texture-view/build/intermediates/cmake/debug/obj/x86_64/libcamera_textureview.so	2c9ba005bdb6fc94

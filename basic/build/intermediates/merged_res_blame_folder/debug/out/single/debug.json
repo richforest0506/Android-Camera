@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "E:\\Workspace\\Android-Camera\\basic\\build\\intermediates\\res\\merged\\debug\\drawable_camera_button.png.flat",
+        "source": "E:\\Workspace\\Android-Camera\\basic\\src\\main\\res\\drawable\\camera_button.png"
+    },
+    {
+        "merged": "E:\\Workspace\\Android-Camera\\basic\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "E:\\Workspace\\Android-Camera\\basic\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Workspace\\Android-Camera\\basic\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "E:\\Workspace\\Android-Camera\\basic\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Workspace\\Android-Camera\\basic\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "E:\\Workspace\\Android-Camera\\basic\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Workspace\\Android-Camera\\basic\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "E:\\Workspace\\Android-Camera\\basic\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Workspace\\Android-Camera\\basic\\build\\intermediates\\res\\merged\\debug\\layout_widgets.xml.flat",
+        "source": "E:\\Workspace\\Android-Camera\\basic\\src\\main\\res\\layout\\widgets.xml"
+    }
+]

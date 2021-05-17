@@ -1,0 +1,4 @@
+com.sample.textureview:string/app_name = 0x7f040000
+com.sample.textureview:layout/activity_main = 0x7f030000
+com.sample.textureview:id/texturePreview = 0x7f020000
+com.sample.textureview:drawable/ic_launcher = 0x7f010000

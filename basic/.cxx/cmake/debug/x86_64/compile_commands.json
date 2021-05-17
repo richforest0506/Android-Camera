@@ -1,0 +1,42 @@
+[
+{
+  "directory": "E:/Workspace/Android-Camera/basic/.cxx/cmake/debug/x86_64",
+  "command": "D:\\DevTools\\Android\\Sdk\\ndk\\21.2.6472646\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=x86_64-none-linux-android24 --gcc-toolchain=D:/DevTools/Android/Sdk/ndk/21.2.6472646/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/DevTools/Android/Sdk/ndk/21.2.6472646/toolchains/llvm/prebuilt/windows-x86_64/sysroot -ID:/DevTools/Android/Sdk/ndk/21.2.6472646/sources/android/native_app_glue -IE:/Workspace/Android-Camera/basic/src/main/cpp/../../../../common -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC -o CMakeFiles\\app_glue.dir\\D_\\DevTools\\Android\\Sdk\\ndk\\21.2.6472646\\sources\\android\\native_app_glue\\android_native_app_glue.c.o -c D:\\DevTools\\Android\\Sdk\\ndk\\21.2.6472646\\sources\\android\\native_app_glue\\android_native_app_glue.c",
+  "file": "D:\\DevTools\\Android\\Sdk\\ndk\\21.2.6472646\\sources\\android\\native_app_glue\\android_native_app_glue.c"
+},
+{
+  "directory": "E:/Workspace/Android-Camera/basic/.cxx/cmake/debug/x86_64",
+  "command": "D:\\DevTools\\Android\\Sdk\\ndk\\21.2.6472646\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=x86_64-none-linux-android24 --gcc-toolchain=D:/DevTools/Android/Sdk/ndk/21.2.6472646/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/DevTools/Android/Sdk/ndk/21.2.6472646/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dndk_camera_EXPORTS -ID:/DevTools/Android/Sdk/ndk/21.2.6472646/sources/android/native_app_glue -IE:/Workspace/Android-Camera/basic/src/main/cpp/../../../../common -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -std=c++11 -Werror -O0 -fno-limit-debug-info  -fPIC -o CMakeFiles\\ndk_camera.dir\\android_main.cpp.o -c E:\\Workspace\\Android-Camera\\basic\\src\\main\\cpp\\android_main.cpp",
+  "file": "E:\\Workspace\\Android-Camera\\basic\\src\\main\\cpp\\android_main.cpp"
+},
+{
+  "directory": "E:/Workspace/Android-Camera/basic/.cxx/cmake/debug/x86_64",
+  "command": "D:\\DevTools\\Android\\Sdk\\ndk\\21.2.6472646\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=x86_64-none-linux-android24 --gcc-toolchain=D:/DevTools/Android/Sdk/ndk/21.2.6472646/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/DevTools/Android/Sdk/ndk/21.2.6472646/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dndk_camera_EXPORTS -ID:/DevTools/Android/Sdk/ndk/21.2.6472646/sources/android/native_app_glue -IE:/Workspace/Android-Camera/basic/src/main/cpp/../../../../common -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -std=c++11 -Werror -O0 -fno-limit-debug-info  -fPIC -o CMakeFiles\\ndk_camera.dir\\camera_engine.cpp.o -c E:\\Workspace\\Android-Camera\\basic\\src\\main\\cpp\\camera_engine.cpp",
+  "file": "E:\\Workspace\\Android-Camera\\basic\\src\\main\\cpp\\camera_engine.cpp"
+},
+{
+  "directory": "E:/Workspace/Android-Camera/basic/.cxx/cmake/debug/x86_64",
+  "command": "D:\\DevTools\\Android\\Sdk\\ndk\\21.2.6472646\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=x86_64-none-linux-android24 --gcc-toolchain=D:/DevTools/Android/Sdk/ndk/21.2.6472646/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/DevTools/Android/Sdk/ndk/21.2.6472646/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dndk_camera_EXPORTS -ID:/DevTools/Android/Sdk/ndk/21.2.6472646/sources/android/native_app_glue -IE:/Workspace/Android-Camera/basic/src/main/cpp/../../../../common -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -std=c++11 -Werror -O0 -fno-limit-debug-info  -fPIC -o CMakeFiles\\ndk_camera.dir\\camera_manager.cpp.o -c E:\\Workspace\\Android-Camera\\basic\\src\\main\\cpp\\camera_manager.cpp",
+  "file": "E:\\Workspace\\Android-Camera\\basic\\src\\main\\cpp\\camera_manager.cpp"
+},
+{
+  "directory": "E:/Workspace/Android-Camera/basic/.cxx/cmake/debug/x86_64",
+  "command": "D:\\DevTools\\Android\\Sdk\\ndk\\21.2.6472646\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=x86_64-none-linux-android24 --gcc-toolchain=D:/DevTools/Android/Sdk/ndk/21.2.6472646/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/DevTools/Android/Sdk/ndk/21.2.6472646/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dndk_camera_EXPORTS -ID:/DevTools/Android/Sdk/ndk/21.2.6472646/sources/android/native_app_glue -IE:/Workspace/Android-Camera/basic/src/main/cpp/../../../../common -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -std=c++11 -Werror -O0 -fno-limit-debug-info  -fPIC -o CMakeFiles\\ndk_camera.dir\\camera_listeners.cpp.o -c E:\\Workspace\\Android-Camera\\basic\\src\\main\\cpp\\camera_listeners.cpp",
+  "file": "E:\\Workspace\\Android-Camera\\basic\\src\\main\\cpp\\camera_listeners.cpp"
+},
+{
+  "directory": "E:/Workspace/Android-Camera/basic/.cxx/cmake/debug/x86_64",
+  "command": "D:\\DevTools\\Android\\Sdk\\ndk\\21.2.6472646\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=x86_64-none-linux-android24 --gcc-toolchain=D:/DevTools/Android/Sdk/ndk/21.2.6472646/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/DevTools/Android/Sdk/ndk/21.2.6472646/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dndk_camera_EXPORTS -ID:/DevTools/Android/Sdk/ndk/21.2.6472646/sources/android/native_app_glue -IE:/Workspace/Android-Camera/basic/src/main/cpp/../../../../common -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -std=c++11 -Werror -O0 -fno-limit-debug-info  -fPIC -o CMakeFiles\\ndk_camera.dir\\image_reader.cpp.o -c E:\\Workspace\\Android-Camera\\basic\\src\\main\\cpp\\image_reader.cpp",
+  "file": "E:\\Workspace\\Android-Camera\\basic\\src\\main\\cpp\\image_reader.cpp"
+},
+{
+  "directory": "E:/Workspace/Android-Camera/basic/.cxx/cmake/debug/x86_64",
+  "command": "D:\\DevTools\\Android\\Sdk\\ndk\\21.2.6472646\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=x86_64-none-linux-android24 --gcc-toolchain=D:/DevTools/Android/Sdk/ndk/21.2.6472646/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/DevTools/Android/Sdk/ndk/21.2.6472646/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dndk_camera_EXPORTS -ID:/DevTools/Android/Sdk/ndk/21.2.6472646/sources/android/native_app_glue -IE:/Workspace/Android-Camera/basic/src/main/cpp/../../../../common -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -std=c++11 -Werror -O0 -fno-limit-debug-info  -fPIC -o CMakeFiles\\ndk_camera.dir\\camera_ui.cpp.o -c E:\\Workspace\\Android-Camera\\basic\\src\\main\\cpp\\camera_ui.cpp",
+  "file": "E:\\Workspace\\Android-Camera\\basic\\src\\main\\cpp\\camera_ui.cpp"
+},
+{
+  "directory": "E:/Workspace/Android-Camera/basic/.cxx/cmake/debug/x86_64",
+  "command": "D:\\DevTools\\Android\\Sdk\\ndk\\21.2.6472646\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=x86_64-none-linux-android24 --gcc-toolchain=D:/DevTools/Android/Sdk/ndk/21.2.6472646/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/DevTools/Android/Sdk/ndk/21.2.6472646/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dndk_camera_EXPORTS -ID:/DevTools/Android/Sdk/ndk/21.2.6472646/sources/android/native_app_glue -IE:/Workspace/Android-Camera/basic/src/main/cpp/../../../../common -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -std=c++11 -Werror -O0 -fno-limit-debug-info  -fPIC -o CMakeFiles\\ndk_camera.dir\\E_\\Workspace\\Android-Camera\\common\\utils\\camera_utils.cpp.o -c E:\\Workspace\\Android-Camera\\common\\utils\\camera_utils.cpp",
+  "file": "E:\\Workspace\\Android-Camera\\common\\utils\\camera_utils.cpp"
+}
+]

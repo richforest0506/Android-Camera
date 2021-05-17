@@ -1,0 +1,11 @@
+com/sample/camera/basic/CameraActivity.java
+ com.sample.camera.basic.CameraActivity
+ com.sample.camera.basic.CameraActivity$1
+ com.sample.camera.basic.CameraActivity$2
+ com.sample.camera.basic.CameraActivity$2$1
+ com.sample.camera.basic.CameraActivity$2$2
+ com.sample.camera.basic.CameraActivity$2$3
+ com.sample.camera.basic.CameraActivity$3
+ com.sample.camera.basic.CameraSeekBar
+com/sample/camera/basic/BuildConfig.java
+ com.sample.camera.basic.BuildConfig

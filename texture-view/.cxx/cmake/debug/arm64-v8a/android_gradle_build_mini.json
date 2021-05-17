@@ -1,0 +1,27 @@
+{
+  "buildFiles": [
+    "E:\\Workspace\\Android-Camera\\texture-view\\src\\main\\cpp\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "D:\\DevTools\\Android\\Sdk\\cmake\\3.18.1\\bin\\ninja.exe",
+      "-C",
+      "E:\\Workspace\\Android-Camera\\texture-view\\.cxx\\cmake\\debug\\arm64-v8a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "D:\\DevTools\\Android\\Sdk\\cmake\\3.18.1\\bin\\ninja.exe",
+    "-C",
+    "E:\\Workspace\\Android-Camera\\texture-view\\.cxx\\cmake\\debug\\arm64-v8a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "camera_textureview::@6890427a1f51a3e7e1df": {
+      "artifactName": "camera_textureview",
+      "abi": "arm64-v8a",
+      "output": "E:\\Workspace\\Android-Camera\\texture-view\\build\\intermediates\\cmake\\debug\\obj\\arm64-v8a\\libcamera_textureview.so",
+      "runtimeFiles": []
+    }
+  }
+}

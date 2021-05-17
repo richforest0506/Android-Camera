@@ -1,0 +1,5 @@
+com.sample.textureview
+drawable ic_launcher
+id texturePreview
+layout activity_main
+string app_name

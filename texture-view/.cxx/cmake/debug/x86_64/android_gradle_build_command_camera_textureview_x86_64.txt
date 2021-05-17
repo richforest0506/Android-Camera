@@ -1,0 +1,7 @@
+Executable : D:\DevTools\Android\Sdk\cmake\3.18.1\bin\ninja.exe
+arguments : 
+-C
+E:\Workspace\Android-Camera\texture-view\.cxx\cmake\debug\x86_64
+camera_textureview
+jvmArgs : 
+
